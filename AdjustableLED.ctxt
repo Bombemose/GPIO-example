@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.params=pin
+comment0.target=AdjustableLED(int)
+comment0.text=\n\ Creates\ the\ Adjustable\ LED\ in\ a\ given\ pin\ number.\n\ \n
+comment1.params=desiredValue
+comment1.target=void\ setValue(int)
+comment1.text=\n\ Set\ the\ LED\ value,\ valid\ values\ are\ integers\ from\ 0\ to\ 100,\ inclusive.\n\ \n
+comment2.params=
+comment2.target=int\ getValue()
+comment2.text=\n\ Returns\ the\ current\ value\ of\ the\ LED.\n\ @return\ integer\ from\ 0\ to\ 100\ with\ the\ LED\ current\ value.\n\ \n
+comment3.params=
+comment3.target=void\ on()
+comment4.params=
+comment4.target=void\ off()
+comment5.params=
+comment5.target=boolean\ atLowestBrightness()
+comment6.params=
+comment6.target=void\ increaseBrightness()
+comment7.params=
+comment7.target=void\ decreaseBrightness()
+comment8.params=
+comment8.target=void\ dimToZero()
+comment9.params=
+comment9.target=void\ dimToMax()
+numComments=10
